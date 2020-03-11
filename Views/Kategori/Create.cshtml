@@ -1,0 +1,34 @@
+@model SampleASPCore.Models.Kategori
+
+@{
+    Layout = "_Layout";
+}
+<h2>Form Tambah Data</h2>
+<br/>
+<a asp-action="Index" class="btn btn-success btn-xs">Tampilkan Data</a>
+<br/>
+
+<div class="row">
+@if(ViewData["pesan"]!=null)
+{
+    @Html.Raw(ViewData["pesan"])
+}
+<br/><br/>
+</div>
+
+
+<div class="col-md-6">
+    <form asp-action="CreatePost">
+        <div class ="form-group">
+            <label asp-for="KategoriID">ID KATEGORI :</label>
+            <input asp-for="KategoriID" class="form-control"/>
+        </div> 
+        <div class ="form-group">
+            <label asp-for="KategoriName">NAMA KATEGORI :</label>
+            <input asp-for="KategoriName" class="form-control"/>
+        </div>
+        <div calss="form-group">
+            <input type="submit" value="Submit" class="btn btn-primary"/>
+            </div>
+    </form>
+</div>

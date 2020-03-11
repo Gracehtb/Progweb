@@ -1,0 +1,104 @@
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.deps.json
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.runtimeconfig.json
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.runtimeconfig.dev.json
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.dll
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.pdb
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.csprojAssemblyReference.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.csproj.CoreCompileInputs.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.RazorAssemblyInfo.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.RazorAssemblyInfo.cs
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.AssemblyInfoInputs.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.AssemblyInfo.cs
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.RazorTargetAssemblyInfo.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.dll
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.pdb
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.Views.dll
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.Views.pdb
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.TagHelpers.input.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.TagHelpers.output.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.RazorCoreGenerate.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.RazorTargetAssemblyInfo.cs
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.Views.pdb
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.csproj.CopyComplete
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\Razor\Views\Registrasi\Index.g.cshtml.cs
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\Razor\Views\Registrasi\Tampil.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.deps.json
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.runtimeconfig.json
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.dll
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.pdb
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.Views.dll
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.Views.pdb
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.TagHelpers.input.cache
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.TagHelpers.output.cache
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.RazorCoreGenerate.cache
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Registrasi\GetAllAnggota.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Registrasi\Index.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Registrasi\Tampil.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.Views.pdb
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.dll
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.pdb
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.csproj.CopyComplete
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Index.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Create.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\Index.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\Create.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\Details.g.cshtml.cs
+C:\Users\LENOVO\Documents\UKDW\AKADEMIK\SEMESTER 4\PROGWEB\CATATAN\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Details.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.csprojAssemblyReference.cache
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.csproj.CoreCompileInputs.cache
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.RazorAssemblyInfo.cache
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.RazorAssemblyInfo.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.AssemblyInfoInputs.cache
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.AssemblyInfo.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.TagHelpers.input.cache
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.TagHelpers.output.cache
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.RazorCoreGenerate.cache
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Artikel\Create.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Artikel\Details.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Artikel\Index.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\Create.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\Details.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\Index.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Kategori\Create.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Kategori\Details.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Kategori\Index.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Create.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Details.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Index.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.RazorTargetAssemblyInfo.cache
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.RazorTargetAssemblyInfo.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.dll
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.pdb
+F:\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.deps.json
+F:\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.runtimeconfig.json
+F:\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.runtimeconfig.dev.json
+F:\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.dll
+F:\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.pdb
+F:\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.Views.dll
+F:\SampleASPCoreMar2019-master\bin\Debug\netcoreapp2.2\SampleASPCore.Views.pdb
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.Views.pdb
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\SampleASPCore.csproj.CopyComplete
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Pengguna\Login.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Pengguna\Registrasi.g.cshtml.cs
+F:\SampleASPCoreMar2019-master\obj\Debug\netcoreapp2.2\Razor\Views\Upload\UploadFile.g.cshtml.cs

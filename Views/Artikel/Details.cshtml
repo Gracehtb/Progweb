@@ -1,0 +1,61 @@
+@model SampleASPCore.Models.Artikel
+
+@{
+    Layout = "_Layout";
+}
+
+<h2>Detail Artikel</h2><br/>
+<a asp-action="Index" class="btn btn-success btn-xs">Tampil Data</a>
+<div class="row">
+@if(ViewData["pesan"]!=null){
+    @Html.Raw(ViewData["pesan"])
+}
+<br/><br/>
+</div>
+
+<div class="col-md-6">
+    <form asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="text-danger" />
+        <div class="form-group">
+            <label asp-for="ArtikelID">ID Artikel :</label>
+            <input asp-for="ArtikelID" readonly="readonly" class="form-control" /> 
+        </div>
+        <div class="col-xs-4 col-xs-push-0">
+            <label asp-for="KategoriID">Kategori</label>
+            <div class="form-group">
+            @Html.DropDownListFor(model=> model.KategoriID,
+            ViewBag.Kategori as IEnumerable<SelectListItem>,"Pilih Kategori",
+                new {htmlAttributes = new {@class = "form-control"}})
+        </div></div>
+         <div class="form-group">
+            <label asp-for="Judul">Judul :</label>
+            <input asp-for="Judul" class="form-control" /> 
+        </div>
+       <div class="form-group">
+            <label asp-for="Berita">Berita:</label>
+            <input asp-for="Berita" class="form-control" />
+            <span asp-validation-for="Berita" class="text-danger" />
+        </div>
+         <div class="form-group">
+            <label asp-for="Tanggal">Tanggal :</label>
+            <input type ="date" asp-for="Tanggal" class="form-control" /> 
+        </div>
+       <div class="form-group">
+            <label asp-for="Gambar">Gambar:</label>
+            <input asp-for="Gambar" type="file" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Username">Username:</label>
+            <input asp-for="Username" class="form-control" />
+            <span asp-validation-for="Username" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Edit" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+
+@section Scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}
